@@ -19,5 +19,5 @@ A full-stack online store with product browsing, shopping cart, and secure check
 ## 📦 Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-app.git
+   git clone https://github.com/Emiyarei/ecommerce-app.git
    cd ecommerce-app
